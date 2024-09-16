@@ -5,6 +5,7 @@
 
 ## Daily Plan
 
+* [X] Day 0: Setting up the environment
 * [ ] Day 1: Playing with Datetimes / D1 (lectures) 
 * [ ] Day 2: Playing with Datetimes / D2 (practice) 
 * [ ] Day 3: Playing with Datetimes / D3 (more coding) 
