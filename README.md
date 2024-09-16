@@ -1,48 +1,107 @@
 # #100DaysOfCode with Python course
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/talkpython/100daysofcode-with-python-course.git/master)
-
 
 [![Visit the course page](readme_resources/100days-course.png)](https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python)
 
-Course details page: [**talkpython.fm/100days**](https://talkpython.fm/100days?utm_source=github)
 
-## Course Summary
+## Daily Plan
 
-#100DaysOfCode in Python is your perfect companion to take the 100 days of code challenge and be successful. This course is 1-part video lesson, 2-parts guided projects. You will be amazed at how many Python technologies and libraries you learn on this journey. Join the course and get started.
-
-## What's this course about and how is it different?
-
-100 days of code is not just about the commitment. The true power and effectiveness is in having a guide and pursuing the "right-sized" projects. That’s why we have 33 deeply practical projects. Each paired with 20-40 minute lessons at the beginning of the project.
-
-Just a small sampling of the projects you’ll work on include:
-
-* Understanding basic Python data structures
-* Searching large text corpuses with regular expressions
-* Consume HTTP services including the Twitter and GitHub APIs among others
-* Visual data with graphs using plotly
-* Convert your Python CLI (command line interface) app to a GUI application
-* Program against Excel in Python to automate your spreadsheet data
-* Build a text-based game and learn object-oriented programming
-* Automate multi-step web processes using selenium
-* Test your code with pytest and unit testing
-* Create a basic web app with Flask
-* Create a JSON-based online game service using Flask too
-* And 22 more projects!
-
-View the [full course outline](https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python).
-
-## Who is this course for?
-
-This course is for anyone who wants to immerse themselves in Python for 100 days worth of learning and hands-on projects.
-
-We don’t start from absolute zero in terms of programming but if you are new to Python we have a language appendix and we start somewhat slow. By the end of the course, we get into intermediate-level Python projects.
-
-## Course flow and the 33 projects
-
-![Course flow](readme_resources/100days-course-flow.png)
-
-We have broken the 100 days worth of coding into 33 3-day segments. As you can see, the first day is largely learning the new topics (HTTP APIs, web scraping, databases, etc.). The following two days have some guidance but is much more hands-on than the first day.
-
-## Get the full course details
-
-Visit the full course page for all the details: [**talkpython.fm/100days**](https://talkpython.fm/100days?utm_source=github)
+* [ ] Day 1: Playing with Datetimes / D1 (lectures) 
+* [ ] Day 2: Playing with Datetimes / D2 (practice) 
+* [ ] Day 3: Playing with Datetimes / D3 (more coding) 
+* [ ] Day 4: Collections module / D1 (lectures) 
+* [ ] Day 5: Collections module / D2 (practice) 
+* [ ] Day 6: Collections module / D3 (more coding) 
+* [ ] Day 7: Python Data Structures / D1 (lectures) 
+* [ ] Day 8: Python Data Structures / D2 (practice) 
+* [ ] Day 9: Python Data Structures / D3 (more coding) 
+* [ ] Day 10: Testing your code with pytest / D1 (lectures) 
+* [ ] Day 11: Testing your code with pytest / D2 (practice) 
+* [ ] Day 12: Testing your code with pytest / D3 (more coding) 
+* [ ] Day 13: Text-based games (and classes) / D1 (lectures) 
+* [ ] Day 14: Text-based games (and classes) / D2 (practice) 
+* [ ] Day 15: Text-based games (and classes) / D3 (more coding) 
+* [ ] Day 16: List comprehensions and generators / D1 (lectures) 
+* [ ] Day 17: List comprehensions and generators / D2 (practice) 
+* [ ] Day 18: List comprehensions and generators / D3 (more coding) 
+* [ ] Day 19: Iteration with itertools / D1 (lectures) 
+* [ ] Day 20: Iteration with itertools / D2 (practice) 
+* [ ] Day 21: Iteration with itertools / D3 (more coding) 
+* [ ] Day 22: Decorators / D1 (lectures) 
+* [ ] Day 23: Decorators / D2 (practice) 
+* [ ] Day 24: Decorators / D3 (more coding) 
+* [ ] Day 25: Error handling / D1 (lectures) 
+* [ ] Day 26: Error handling / D2 (practice) 
+* [ ] Day 27: Error handling / D3 (more coding) 
+* [ ] Day 28: Regular Expressions / D1 (lectures) 
+* [ ] Day 29: Regular Expressions / D2 (practice) 
+* [ ] Day 30: Regular Expressions / D3 (more coding) 
+* [ ] Day 31: Logging / D1 (lectures) 
+* [ ] Day 32: Logging / D2 (practice) 
+* [ ] Day 33: Logging / D3 (more coding) 
+* [ ] Day 34: Refactoring / Pythonic code / D1 (lectures) 
+* [ ] Day 35: Refactoring / Pythonic code / D2 (practice) 
+* [ ] Day 36: Refactoring / Pythonic code / D3 (more coding) 
+* [ ] Day 37: Using CSV data / D1 (lectures) 
+* [ ] Day 38: Using CSV data / D2 (practice) 
+* [ ] Day 39: Using CSV data / D3 (more coding) 
+* [ ] Day 40: JSON in Python / D1 (lectures) 
+* [ ] Day 41: JSON in Python / D2 (practice) 
+* [ ] Day 42: JSON in Python / D3 (more coding) 
+* [ ] Day 43: Consuming HTTP services / D1 (lectures) 
+* [ ] Day 44: Consuming HTTP services / D2 (practice) 
+* [ ] Day 45: Consuming HTTP services / D3 (more coding) 
+* [ ] Day 46: Web Scraping with BeautifulSoup4 / D1 (lectures) 
+* [ ] Day 47: Web Scraping with BeautifulSoup4 / D2 (practice) 
+* [ ] Day 48: Web Scraping with BeautifulSoup4 / D3 (more coding) 
+* [ ] Day 49: Measuring performance / D1 (lectures) 
+* [ ] Day 50: Measuring performance / D2 (practice) 
+* [ ] Day 51: Measuring performance / D3 (more coding) 
+* [ ] Day 52: Parsing RSS feeds with Feedparser / D1 (lectures) 
+* [ ] Day 53: Parsing RSS feeds with Feedparser / D2 (practice) 
+* [ ] Day 54: Parsing RSS feeds with Feedparser / D3 (more coding) 
+* [ ] Day 55: Structured API clients with uplink / D1 (lectures) 
+* [ ] Day 56: Structured API clients with uplink / D2 (practice) 
+* [ ] Day 57: Structured API clients with uplink / D3 (more coding) 
+* [ ] Day 58: Twitter data analysis with Python / D1 (lectures) 
+* [ ] Day 59: Twitter data analysis with Python / D2 (practice) 
+* [ ] Day 60: Twitter data analysis with Python / D3 (more coding) 
+* [ ] Day 61: Using the Github API with Python / D1 (lectures) 
+* [ ] Day 62: Using the Github API with Python / D2 (practice) 
+* [ ] Day 63: Using the Github API with Python / D3 (more coding) 
+* [ ] Day 64: Sending emails with smtplib / D1 (lectures) 
+* [ ] Day 65: Sending emails with smtplib / D2 (practice) 
+* [ ] Day 66: Sending emails with smtplib / D3 (more coding) 
+* [ ] Day 67: Copy and Paste with Pyperclip / D1 (lectures) 
+* [ ] Day 68: Copy and Paste with Pyperclip / D2 (practice) 
+* [ ] Day 69: Copy and Paste with Pyperclip / D3 (more coding) 
+* [ ] Day 70: Excel automation with openpyxl / D1 (lectures) 
+* [ ] Day 71: Excel automation with openpyxl / D2 (practice) 
+* [ ] Day 72: Excel automation with openpyxl / D3 (more coding) 
+* [ ] Day 73: Automate tasks with Selenium / D1 (lectures) 
+* [ ] Day 74: Automate tasks with Selenium / D2 (practice) 
+* [ ] Day 75: Automate tasks with Selenium / D3 (more coding) 
+* [ ] Day 76: Getting Started with Python Flask / D1 (lectures) 
+* [ ] Day 77: Getting Started with Python Flask / D2 (practice) 
+* [ ] Day 78: Getting Started with Python Flask / D3 (more coding) 
+* [ ] Day 79: Basic Database Access with SQLite3 / D1 (lectures) 
+* [ ] Day 80: Basic Database Access with SQLite3 / D2 (practice) 
+* [ ] Day 81: Basic Database Access with SQLite3 / D3 (more coding) 
+* [ ] Day 82: Data visualization with Plotly / D1 (lectures) 
+* [ ] Day 83: Data visualization with Plotly / D2 (practice) 
+* [ ] Day 84: Data visualization with Plotly / D3 (more coding) 
+* [ ] Day 85: Fullstack web apps made easy / D1 (lectures) 
+* [ ] Day 86: Fullstack web apps made easy / D2 (practice) 
+* [ ] Day 87: Fullstack web apps made easy / D3 (more coding) 
+* [ ] Day 88: Home Inventory App / D1 (lectures) 
+* [ ] Day 89: Home Inventory App / D2 (practice) 
+* [ ] Day 90: Home Inventory App / D3 (more coding) 
+* [ ] Day 91: Database access with SQLAlchemy / D1 (lectures) 
+* [ ] Day 92: Database access with SQLAlchemy / D2 (practice) 
+* [ ] Day 93: Database access with SQLAlchemy / D3 (more coding) 
+* [ ] Day 94: Rich GUI apps in Python / D1 (lectures) 
+* [ ] Day 95: Rich GUI apps in Python / D2 (practice) 
+* [ ] Day 96: Rich GUI apps in Python / D3 (more coding) 
+* [ ] Day 97: Building JSON APIs / D1 (lectures) 
+* [ ] Day 98: Building JSON APIs / D2 (practice) 
+* [ ] Day 99: Building JSON APIs / D3 (more coding) 
+* [ ] Day 100: I completed the 100 Days of Code in Python course by @pybites @talkpython! #100DaysOfCode #Python #milestone #Python
