@@ -1,0 +1,38 @@
+
+ - [ ] Ch 1. Welcome to the course - 31:41
+ - [ ] Ch 2. Days 1-3: Playing with Datetimes - 20:34
+ - [ ] Ch 3. Days 4-6: Collections module - 17:10
+ - [ ] Ch 4. Days 7-9: Python Data Structures - 24:41
+ - [ ] Ch 5. Days 10-12: Testing your code with pytest - 43:49
+ - [ ] Ch 6. Days 13-15: Text-based games (and classes) - 27:09
+ - [ ] Ch 7. Days 16-18: List comprehensions and generators - 22:10
+ - [ ] Ch 8. Days 19-21: Iteration with itertools - 35:42
+ - [ ] Ch 9. Days 22-24: Decorators - 17:02
+ - [ ] Ch 10. Days 25-27: Error handling - 15:01
+ - [ ] Ch 11. Days 28-30: Regular Expressions - 24:11
+ - [ ] Ch 12. Days 31-33: Logging - 26:06
+ - [ ] Ch 13. Days 34-36: Refactoring / Pythonic code - 36:16
+ - [ ] Ch 14. Days 37-39: Using CSV data - 32:08
+ - [ ] Ch 15. Days 40-42: JSON in Python - 25:36
+ - [ ] Ch 16. Days 43-45: Consuming HTTP services - 23:50
+ - [ ] Ch 17. Days 46-48: Web Scraping with BeautifulSoup4 - 34:05
+ - [ ] Ch 18. Days 49-51: Measuring performance - 31:01
+ - [ ] Ch 19. Days 52-54: Parsing RSS feeds with Feedparser - 17:57
+ - [ ] Ch 20. Days 55-57: Structured API clients with uplink - 32:25
+ - [ ] Ch 21. Days 58-60: Twitter data analysis with Python - 21:51
+ - [ ] Ch 22. Days 61-63: Using the Github API with Python - 24:59
+ - [ ] Ch 23. Days 64-66: Sending emails with smtplib - 29:49
+ - [ ] Ch 24. Days 67-69: Copy and Paste with Pyperclip - 20:45
+ - [ ] Ch 25. Days 70-72: Excel automation with openpyxl - 33:29
+ - [ ] Ch 26. Days 73-75: Automate tasks with Selenium - 22:24
+ - [ ] Ch 27. Days 76-78: Getting Started with Python Flask - 23:35
+ - [ ] Ch 28. Days 79-81: Basic Database Access with SQLite3 - 32:10
+ - [ ] Ch 29. Days 82-84: Data visualization with Plotly - 27:30
+ - [ ] Ch 30. Days 85-87: Fullstack web apps made easy - 1:02:30
+ - [ ] Ch 31. Days 88-90: Home Inventory App - 31:40
+ - [ ] Ch 32. Days 91-93: Database access with SQLAlchemy - 37:06
+ - [ ] Ch 33. Days 94-96: Rich GUI apps in Python - 23:34
+ - [ ] Ch 34. Days 97-99: Building JSON APIs - 1:01:31
+ - [ ] Ch 35. Day 100 - 0:45
+ - [ ] Ch 36. Course conclusion - 5:50
+ - [ ] Ch 37. Appendix: Python language concepts - 46:30
